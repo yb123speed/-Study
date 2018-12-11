@@ -1,0 +1,7 @@
+<!-- cli与gmsv之间的传输内容的协议定义文件 -->
+<?xml version="1.0" encoding="utf-8"?>
+<gen>
+    <method methodname="ping" prflow="p2p">
+        <param prtype="qword" prname="timestamp" />
+    </method>
+</gen>
