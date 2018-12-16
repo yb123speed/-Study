@@ -1,0 +1,4 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.default.includePath": ["/usr/local/Cellar/sdl2/2.0.9/include/"],
+}
