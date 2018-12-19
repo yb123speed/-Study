@@ -8,8 +8,10 @@
             "type": "shell",
             "command": "gcc-8",
             "args": [
+                "-o",
+                "0x00.out",
                 "0x01/main.c",
-                "-v",
+                "/usr/local/lib/libSDL2.a",
             ],
             "presentation": {
                 "echo": true,
